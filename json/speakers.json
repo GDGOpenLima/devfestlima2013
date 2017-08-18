@@ -1,0 +1,231 @@
+[
+    {
+        "speakers" : [{
+            "name" : "Matias Molinas",
+            "gplusid" : "117629885563933382879",
+            "image" : "https://lh3.googleusercontent.com/-AJKFDGod6us/AAAAAAAAAAI/AAAAAAAAD64/Olccnle-qH4/s90-c-k-no/photo.jpg",
+            "company" : "Google",
+            "title" : "Youtube Developer Expert Youtube",
+            "twitter": ""
+        }],
+        "title" : "Introduccion a las APIs de YouTube",
+        "desc" : "Un repaso de las APIs de YouTube y su principales aplicaciones",
+        "id" : "0"
+    },{
+        "speakers" : [{
+            "name" : "Jonathan F. Torres ",
+            "gplusid" : "102663544439397950857",
+            "image" : "https://lh4.googleusercontent.com/-VLIYH9kD4fs/AAAAAAAAAAI/AAAAAAAAAV0/ENuuq8F2E6U/s90-c-k-no/photo.jpg",
+            "company" : "GDG Chiclayo",
+            "title" : "Organizer",
+            "twitter": "@chescot2302"
+        }],
+        "title" : "Google Web Toolkit",
+        "desc" : "Google Web Toolkit permite crear aplicaciones RIA, olvidandose de las particularidades de los navegadores, programas en java con POO y el compilador GWT lo convierte a codigo Javascript de alta performance para ser incrustado en una pagina HTML, JSP, etc.",
+        "id" : "1"
+    },{
+        "speakers" : [{
+            "name" : "Andrew Jackman",
+            "gplusid" : "104859837638289249811",
+            "image" : "https://lh6.googleusercontent.com/-PKbrvEJ25wg/AAAAAAAAAAI/AAAAAAAAACY/kB51qwABZR0/s90-c-k-no/photo.jpg",
+            "company" : "Jackman Labs",
+            "title" : "Owner",
+            "twitter": ""
+        }],
+        "title" : "Introduccion a Go",
+        "desc" : "Se presentara los recursos esenciales para aprender a programar en Go, el uso de Eclipse con goclipse, y un programa del inicio.",
+        "id" : "2"
+    },{
+        "speakers" : [{
+            "name" : "Gustavo Quiroz",
+            "gplusid" : "103346670190829305371",
+            "image" : "https://lh6.googleusercontent.com/-ok0U7REdM9M/AAAAAAAAAAI/AAAAAAAACxg/r76T2r-Ig3s/s90-c-k-no/photo.jpg",
+            "company" : "AgilePeru",
+            "title" : "Consultor, coach, agile trainer",
+            "twitter": "@quiroz_gustavo"
+        }],
+        "title" : "¿Yo, lider? Liderazgo ágil y efectivo en equipos de tecnología",
+        "desc" : "imo",
+        "id" : "3"
+    },{
+        "speakers" : [{
+            "name" : "Armando Picon",
+            "gplusid" : "113160947625927270560‎",
+            "image" : "https://lh4.googleusercontent.com/-O85RwJMHWDA/AAAAAAAAAAI/AAAAAAAAVeI/07cNyzxDZT4/s90-c-k-no/photo.jpg",
+            "company" : "GDG Open Lima",
+            "title" : "Organizer",
+            "twitter": "@apiconz"
+        }],
+        "title" : "Desarrollando proyectos colaborativos con Git y GitHub",
+        "desc" : "Con el pasar de los años el versionamiento de código se ha convertido en una práctica común en el desarrollo; pero ¿qué pasa si a esto le sumas el aspecto social? Esta sesión buscará repasar desde aspectos básicos del uso de Git hasta el uso de Github.",
+        "id" : "4"
+    },{
+        "speakers" : [{
+            "name" : "Hansy Schmitt",
+            "gplusid" : "106514802558347242305",
+            "image" : "https://lh4.googleusercontent.com/-uEaC0STzj_8/AAAAAAAAAAI/AAAAAAAAAgg/46BF1b7MSVw/s90-c-k-no/photo.jpg",
+            "company" : "GDG Open Lima",
+            "title" : "Member",
+            "twitter": "@hansyschmitt"
+        }],
+        "title" : "Hackeando android",
+        "desc" : "Demostracion de como instalar android desde source.",
+        "id" : "5" 
+    },{
+        "speakers" : [{
+            "name" : "Luis Córdova",
+            "gplusid" : "117310182661894279827",
+            "image" : "images/gdgopenlima-circle.jpg",
+            "company" : "PHP Perú",
+            "title" : "Member",
+            "twitter": "@cordoval"
+        }],
+        "title" : "PHP Workflow library",
+        "desc" : "We will work with a new workflow library and we will touch some status on GAE for deploying PHP applications.",
+        "id" : "6"
+    },{
+        "speakers" : [{
+            "name" : "Meison Chirinos",
+            "gplusid" : "+MeisonChirinos",
+            "image" : "https://lh6.googleusercontent.com/-VYtvG5kwuwY/AAAAAAAAAAI/AAAAAAAAAYE/sS4qQFAt-5M/s90-c-k-no/photo.jpg",
+            "company" : "GDG Open Lima",
+            "title" : "Member",
+            "twitter": "@ameison"
+        }],
+        "title" : "Introducción a Google App Engine",
+        "desc" : "Charla intro para mostrar las características de la plataforma, que se puede hacer, como integrarlo con Android.",
+        "id" : "7"
+    },{
+        "speakers" : [{
+            "name" : "Deborah Reyes Del Hierro",
+            "gplusid" : "",
+            "image" : "images/gdgopenlima-circle.jpg",
+            "company" : "Google Perú",
+            "title" : "",
+            "twitter": ""
+        }],
+        "title" : "Captura oportunidad con Search y mide con Google Analytics",
+        "desc" : "Aprende cómo identificar y capturar la oportunidad que existe para tu negocio con las soluciones de Publicidad de Google y descubre qué y cómo medir para llevar tu negocio al siguiente nivel de desarrollo.",
+        "id" : "8"
+    }	,{
+        "speakers" : [{
+            "name" : "Eduardo Cabrera Japa",
+            "gplusid" : "103151371915726277518",
+            "image" : "https://lh6.googleusercontent.com/-EdU9uByqqRQ/AAAAAAAAAAI/AAAAAAAAAF0/tKwDG2Opw8U/s120-c/photo.jpg",
+            "company" : "inClouds Group",
+            "title" : "",
+            "twitter": "@dvex92"
+        }],
+        "title" : "Drupal con Maria DB",
+        "desc" : "Se hablará sobre el CMS de Drupal escrito en PHP mencionando sus ventajas y Desventajas. Lo que se puede hacer y no se puede hacer con la herramienta.",
+        "id" : "9"
+    },{
+        "speakers" : [{
+            "name" : "José Luján",
+            "gplusid" : "103871608091491576854",
+            "image" : "https://lh3.googleusercontent.com/-jjMLU_m_rOw/AAAAAAAAAAI/AAAAAAAAAKs/XJrUA0jQ-o4/s120-c/photo.jpg",
+            "company" : "GDG Cancún",
+            "title" : "Organizador",
+            "twitter": "@josedlujan"
+        }],
+        "title" : "Android vs HTML5",
+        "desc" : "La moda de HTML5  y las webapps invade el mundo, no intentaremos cambiar la forma de pensar de nadie, tampoco que alguien desarrolle aplicaciones nativas o webapp, solamente informaremos de los caminos que se  pueden tomar, hablamos de diseño y desarrollo, porque siempre están juntos y no los podemos separar. Te  contamos unos secretos para desarrollar aplicaciones de forma profesional, rápida y eficiente.",
+        "id" : "10"
+    },{
+        "speakers" : [{
+            "name" : "Joel Ibaceta",
+            "gplusid" : "",
+            "image" : "images/gdgopenlima-circle.jpg",
+            "company" : "inClouds Group",
+            "title" : "",
+            "twitter": "@joelibaceta"
+        }],
+        "title" : "Ubicuidad y Computacion Fisica (Android y Arduino)",
+        "desc" : "El avance de la ciencia y la tecnología nos ha permitido situarnos en un tiempo donde las posibilidades computacionales escapan mucho más allá de las computadoras de escritorio de antaño, ahora es posible interactuar con la tecnología desde cualquier momento y lugar sin restricciones, a esto llamamos ubicuidad. Y a nadie le sorprende ya, oír que los dispositivos pueden interactuar con nuestro entorno, responder a nuestros estímulos e incluso controlar a otros dispositivos, esto da lugar al acuñamiento de nuevos conceptos aun en círculos tecnicos como computación fisica e internet de las cosas, los cuales serán los cimientos para el desarrollo de una nueva etapa en la evolución de la tecnología.",
+        "id" : "11"
+    }	,{
+        "speakers" : [{
+            "name" : "Christian Ramón",
+            "gplusid" : "105395214612249824689",
+            "image" : "https://lh3.googleusercontent.com/-pf5Ky1nBdSg/AAAAAAAAAAI/AAAAAAAAAEg/e_r_L7aAhYc/s120-c/photo.jpg",
+            "company" : "Royal Pioneers",
+            "title" : "",
+            "twitter": "@cramonn"
+        }],
+        "title" : "AngularJS Intro, Tips & Testing.",
+        "desc" : "Introducción, tips y testing para crear aplicaciones escalables con AngularJS.",
+        "id" : "12"
+    },{
+        "speakers" : [{
+            "name" : "Hansy Schmitt",
+            "gplusid" : "106514802558347242305",
+            "image" : "https://lh4.googleusercontent.com/-uEaC0STzj_8/AAAAAAAAAAI/AAAAAAAAAgg/46BF1b7MSVw/s90-c-k-no/photo.jpg",
+            "company" : "GDG Open Lima",
+            "title" : "Member",
+            "twitter": "@hansyschmitt"
+        }],
+        "title" : "Chrome Extensions y dispositivos Bluetooth",
+        "desc" : "En esta sesion conectaremos un dispositivo externo mediante bluetooth con una extension de Chrome.",
+        "id" : "13" 
+    },{
+        "speakers" : [{
+            "name" : "Charles Córdova",
+            "gplusid" : "+CharlesCordova",
+            "image" : "https://lh4.googleusercontent.com/-yEb41n0WdDY/AAAAAAAAAAI/AAAAAAAADac/rjqOL8atdWE/s120-c/photo.jpg",
+            "company" : "",
+            "title" : "",
+            "twitter": "@chacovi"
+        }],
+        "title" : "Google Apps Script - New features",
+        "desc" : "Google App Script New Features, breve introducción y un paseo por las diversas bondades que nos ofrece esta tecnología. Experimentos interactuando con las Google APIs más populares y buenas prácticas.",
+        "id" : "14"
+    },{
+        "speakers" : [{
+            "name" : "Gustavo Lizárraga",
+            "gplusid" : "+GustavoLizárraga",
+            "image" : "https://lh3.googleusercontent.com/-9xSuUnOf4VY/AAAAAAAAAAI/AAAAAAAAEx0/FLnaf1VWfEo/s120-c/photo.jpg",
+            "company" : "Android Bolivia",
+            "title" : "Organizador",
+            "twitter": "@GuJoLiX"
+        }],
+        "title" : "Android 4.4 KitKat la revolución del momento",
+        "desc" : "La nueva versión de Android denominada KitKat la tiene a mucha gente en espectativa de las nuevas características que tenga, mejoras y muchas cosas más, en esta sesión se explicará paso a paso cada una de esas características recién lanzadas por Google.",
+        "id" : "15"
+    },{
+        "speakers" : [{
+            "name" : "Karen Loayza",
+            "gplusid" : "104595536884539514777",
+            "image" : "images/karen.png",
+            "company" : "Agile Peru",
+            "title" : "Miembro",
+            "twitter": "@LoayzaKaren"
+        }],
+        "title" : "Colaboracion 2.0: Herramientas de desarrollo agil de Google.",
+        "desc" : "Una cultura de colaboracion facilita la adopcion agil. Google pone a nuestra disposicion diversas herramientas que pueden ayudarnos en el camino de la agilidad.",
+        "id" : "16"
+    },{
+        "speakers" : [{
+            "name" : "Hansy Schmitt",
+            "gplusid" : "106514802558347242305",
+            "image" : "https://lh4.googleusercontent.com/-uEaC0STzj_8/AAAAAAAAAAI/AAAAAAAAAgg/46BF1b7MSVw/s90-c-k-no/photo.jpg",
+            "company" : "GDG Open Lima",
+            "title" : "Member",
+            "twitter": "@hansyschmitt"
+        }],
+        "title" : "Raspberry PI",
+        "desc" : "",
+        "id" : "17" 
+    },{
+        "speakers" : [{
+            "name" : "GDG Open Lima",
+            "gplusid" : "",
+            "image" : "images/gdgopenlima-circle.jpg",
+            "company" : "",
+            "title" : "",
+            "twitter": ""
+        }],
+        "title" : "Abierto",
+        "desc" : "",
+        "id" : "18"
+    }	
+]

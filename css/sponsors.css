@@ -1,0 +1,44 @@
+.sponsor-box {
+	float: left;
+	width: 100%;
+	margin-bottom: 30px;
+}
+
+.sponsor-inner-box {
+	padding: 15px 25px 5px;
+	float: left;
+	width: 100%
+}
+
+.sponsor-inner-box:not (:first-child ) {
+	padding: 0 25px 0;
+	margin-top: -25px;
+}
+
+.sponsor-avatar {
+	padding: 5px;
+	float: inherit;
+}
+
+.sponsor-avatar img {
+	border: 3px solid hsl(0, 0%, 76%);
+	margin-left: auto;
+	margin-right: auto;
+	float: right;
+	width: 250px;
+}
+
+.sponsor-info {
+	float:right; 
+	font-family: sans-serif;
+}
+
+.sponsor-name {
+	font-weight: 700;
+	margin: 10px 0 0 10px;
+}
+
+.sponsor-twitter {
+	font-size: 80%;
+	margin: 0 0 0 10px;
+}

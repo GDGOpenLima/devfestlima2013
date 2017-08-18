@@ -1,0 +1,63 @@
+[
+    {
+        "sponsor" : "Universidad San Ignacio de Loyola (USIL)" ,
+        "url" : "https://plus.google.com/114638846192751581411‎",
+        "image" : "images/logo_USIL.png",
+        "twitter": "",
+        "id" : "0"
+    },{
+        "sponsor" : "Centro Emprendimiento USIL" ,
+        "url" : "https://plus.google.com/114638846192751581411‎",
+        "image" : "images/logo_CEUSIL.png",
+        "twitter": "",
+        "id" : "1"
+    },{
+        "sponsor" : "Club de Emprendedores USIL" ,
+        "url" : "https://plus.google.com/114638846192751581411‎",
+        "image" : "images/logo_ClubEmprendedoresUSIL.png",
+        "twitter": "",
+        "id" : "2"
+    },{
+        "sponsor" : "inClouds Group" ,
+        "url" : "http://www.incloudsgroup.com‎",
+        "image" : "images/logo_inclouds.png",
+        "twitter": "@incloudsgroup",
+        "id" : "3"
+    },{
+        "sponsor" : "GDG Chiclayo" ,
+        "url" : "https://plus.google.com/114638846192751581411‎",
+        "image" : "images/comm-GDGChiclayo.png",
+        "twitter": "@gdgchiclayo",
+        "id" : "4"
+    },{
+        "sponsor" : "GDG Cancún" ,
+        "url" : "http://gdgcancun.org/",
+        "image" : "images/comm-GDGCancun.png",
+        "twitter": "@gdgcancun",
+        "id" : "5"
+    },{
+        "sponsor" : "GDG La Paz" ,
+        "url" : "https://plus.google.com/+GDGBolivia",
+        "image" : "images/comm-gdglapaz.png",
+        "twitter": "@GDGbo",
+        "id" : "6"
+    },{
+        "sponsor" : "Android Bolivia" ,
+        "url" : "http://androidbolivia.org/",
+        "image" : "images/comm-androidbolivia.png",
+        "twitter": "@AndroidBolivia",
+        "id" : "7"
+    },{
+        "sponsor" : "Agile Perú" ,
+        "url" : "http://www.agile-peru.net",
+        "image" : "images/comm-agileperu.png",
+        "twitter": "@agileperu",
+        "id" : "8"
+    },{
+        "sponsor" : "PHP Perú" ,
+        "url" : "https://groups.google.com/forum/#!forum/phpperu",
+        "image" : "images/comm-phpperu.png",
+        "twitter": "@php_peru",
+        "id" : "9"
+    }
+]
